@@ -11,52 +11,52 @@ Here are a list of all the tech used with their official docs, added short docs 
 ## Technologies Used
 
 1. HTML
-  1. [HTML 5](https://www.w3schools.com/html/)
-  1. [Web Components](webComponents.org)
-1. CSS
-  1. [Sass](https://sass1.lang.com/)
-  1. [UNO CSS](https://github.com/antfu/unocss)
-  1. [Windi CSS](https://github.com/windicss/windicss)
-  1. [Critters](https://github.com/GoogleChromeLabs/critters)
-  1. [Unplugin](https://github.com/antfu/unplugin-icons)
-1. [PHP 7.4](https://www.php.net/)
-  1. [Laravel](https://laravel.com/)
-  1. [Lighthouse](https://lighthouse-php.com/)
-  1. [Sanctum](https://laravel.com/8.x/sanctum)
-  1. [CORS](https://lighthouse-php.com/5/getting-started/configuration.html#cors)
-1. [JavaScript (ES 2016)](https://www.javascript.com/)
-  1. JavaScript Modules
-  1. [Vue.js 3](https://vuejs.org/)
-    1. Vue Templates
-    1. [Vue Router](https://router.vuejs.org/)
-    1. [Vue Apollo for GraphQL](https://apollo.vuejs.org/)
-    1. [Vuex for State Management](https://next.vuex.vuejs.org/) or
-    1. [Pinia For State Management](https://pinia.esm.dev/introduction.html)
-  1. [Quasar](https://quasar.dev/)
-  1. [Quasar form Builder](https://github.com/baggachipz/q1.form-builder-demo)
-  1. [Vite](https://vitejs.dev/)
-  1. [Vite Plugin Markdown](https://github.com/antfu/vite-plugin-md)
-  1. [Vite Server Side Rendering](https://vitejs.dev/guide/ssr.html)
-  1. [TypeScript](https://www.typescriptlang.org/)
-  1. [@vueuse/head](https://github.com/vueuse/head)
-1. [Node.js](https://nodejs.org/)
-  1. [NVM (Node version manager)](https://github.com/mvm-sh/nvm)
-  1. [Vite](https://vitejs.dev/)
-  1. [Quasar CLi](https://quasar.dev/)
-1. Database
-  1. [MySQL](https://www.mysql.com/)
-  1. [Redis](https://redis.io/)
-1. API
-  1. [GraphQL API](https://graphql.org/)
-1. Package Managers
-  1. [NPM / PNPM](https://www.npmjs.com/) or
-  1. [Yarn](https://yarnpkg.com/)
-  1. [Composer](https://getcomposer.org/)
-1. [Apache](https://www.apache.org/)
-1. [CentOS 8](https://www.centos.org/)
-  1. [Samba](https://www.linuxtechi.com/install-configure-samba-centos-8/)
-1. Version Control
-  1. [Git](https://git-scm.com/)
+  1.1 [HTML 5](https://www.w3schools.com/html/)
+  1.2 [Web Components](webComponents.org)
+2. CSS
+  2.1 [Sass](https://sass1.lang.com/)
+  2.2 [UNO CSS](https://github.com/antfu/unocss)
+  2.3 [Windi CSS](https://github.com/windicss/windicss)
+  2.4 [Critters](https://github.com/GoogleChromeLabs/critters)
+  2.5 [Unplugin](https://github.com/antfu/unplugin-icons)
+3. [PHP 7.4](https://www.php.net/)
+  3.1 [Laravel](https://laravel.com/)
+  3.2 [Lighthouse](https://lighthouse-php.com/)
+  3.3 [Sanctum](https://laravel.com/8.x/sanctum)
+  3.4 [CORS](https://lighthouse-php.com/5/getting-started/configuration.html#cors)
+4. [JavaScript (ES 2016)](https://www.javascript.com/)
+  4.1 JavaScript Modules
+  4.2 [Vue.js 3](https://vuejs.org/)
+    4.2.1 Vue Templates
+    4.2.2 [Vue Router](https://router.vuejs.org/)
+    4.2.3 [Vue Apollo for GraphQL](https://apollo.vuejs.org/)
+    4.2.4 [Vuex for State Management](https://next.vuex.vuejs.org/) or
+    4.2.5 [Pinia For State Management](https://pinia.esm.dev/introduction.html)
+  4.3 [Quasar](https://quasar.dev/)
+  4.4 [Quasar form Builder](https://github.com/baggachipz/q1.form-builder-demo)
+  4.5 [Vite](https://vitejs.dev/)
+  4.6 [Vite Plugin Markdown](https://github.com/antfu/vite-plugin-md)
+  4.7 [Vite Server Side Rendering](https://vitejs.dev/guide/ssr.html)
+  4.8 [TypeScript](https://www.typescriptlang.org/)
+  4.9 [@vueuse/head](https://github.com/vueuse/head)
+5. [Node.js](https://nodejs.org/)
+  5.1 [NVM (Node version manager)](https://github.com/mvm-sh/nvm)
+  5.2 [Vite](https://vitejs.dev/)
+  5.3 [Quasar CLi](https://quasar.dev/)
+6. Database
+  6.1 [MySQL](https://www.mysql.com/)
+  6.2 [Redis](https://redis.io/)
+7. API
+  7.1 [GraphQL API](https://graphql.org/)
+8. Package Managers
+  8.1 [NPM / PNPM](https://www.npmjs.com/) or
+  8.2 [Yarn](https://yarnpkg.com/)
+  8.3 [Composer](https://getcomposer.org/)
+9. [Apache](https://www.apache.org/)
+10. [CentOS 8](https://www.centos.org/)
+  10.1 [Samba](https://www.linuxtechi.com/install-configure-samba-centos-8/)
+11. Version Control
+  11.1 [Git](https://git-scm.com/)
 
 For each component there are installation instructions, usage instructions with some examples and where to get more help if needed
 
