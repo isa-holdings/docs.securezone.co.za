@@ -8,55 +8,55 @@ This project uses the following technologies, Where the technologies are describ
 
 Here are a list of all the tech used with their official docs, added short docs for each module that is relative to the project further down with install instructions and basic examples.
 
-## Index
+## Technologies Used
 
-- HTML
-  - [HTML 5](https://www.w3schools.com/html/)
-  - [Web Components](webComponents.org)
-- CSS
-  - [Sass](https://sass-lang.com/)
-  - [UNO CSS](https://github.com/antfu/unocss)
-  - [Windi CSS](https://github.com/windicss/windicss)
-  - [Critters](https://github.com/GoogleChromeLabs/critters)
-  - [Unplugin](https://github.com/antfu/unplugin-icons)
-- [PHP 7.4](https://www.php.net/)
-  - [Laravel](https://laravel.com/)
-  - [Lighthouse](https://lighthouse-php.com/)
-  - [Sanctum](https://laravel.com/8.x/sanctum)
-  - [CORS](https://lighthouse-php.com/5/getting-started/configuration.html#cors)
-- [JavaScript (ES 2016)](https://www.javascript.com/)
-  - JavaScript Modules
-  - [Vue.js 3](https://vuejs.org/)
-    - Vue Templates
-    - [Vue Router](https://router.vuejs.org/)
-    - [Vue Apollo for GraphQL](https://apollo.vuejs.org/)
-    - [Vuex for State Management](https://next.vuex.vuejs.org/) or
-    - [Pinia For State Management](https://pinia.esm.dev/introduction.html)
-  - [Quasar](https://quasar.dev/)
-  - [Quasar form Builder](https://github.com/baggachipz/q-form-builder-demo)
-  - [Vite](https://vitejs.dev/)
-  - [Vite Plugin Markdown](https://github.com/antfu/vite-plugin-md)
-  - [Vite Server Side Rendering](https://vitejs.dev/guide/ssr.html)
-  - [TypeScript](https://www.typescriptlang.org/)
-  - [@vueuse/head](https://github.com/vueuse/head)
-- [Node.js](https://nodejs.org/)
-  - [NVM (Node version manager)](https://github.com/mvm-sh/nvm)
-  - [Vite](https://vitejs.dev/)
-  - [Quasar CLi](https://quasar.dev/)
-- Database
-  - [MySQL](https://www.mysql.com/)
-  - [Redis](https://redis.io/)
-- API
-  - [GraphQL API](https://graphql.org/)
-- Package Managers
-  - [NPM / PNPM](https://www.npmjs.com/) or
-  - [Yarn](https://yarnpkg.com/)
-  - [Composer](https://getcomposer.org/)
-- [Apache](https://www.apache.org/)
-- [CentOS 8](https://www.centos.org/)
-  - [Samba](https://www.linuxtechi.com/install-configure-samba-centos-8/)
-- Version Control
-  - [Git](https://git-scm.com/)
+1. HTML
+  1. [HTML 5](https://www.w3schools.com/html/)
+  1. [Web Components](webComponents.org)
+1. CSS
+  1. [Sass](https://sass1.lang.com/)
+  1. [UNO CSS](https://github.com/antfu/unocss)
+  1. [Windi CSS](https://github.com/windicss/windicss)
+  1. [Critters](https://github.com/GoogleChromeLabs/critters)
+  1. [Unplugin](https://github.com/antfu/unplugin-icons)
+1. [PHP 7.4](https://www.php.net/)
+  1. [Laravel](https://laravel.com/)
+  1. [Lighthouse](https://lighthouse-php.com/)
+  1. [Sanctum](https://laravel.com/8.x/sanctum)
+  1. [CORS](https://lighthouse-php.com/5/getting-started/configuration.html#cors)
+1. [JavaScript (ES 2016)](https://www.javascript.com/)
+  1. JavaScript Modules
+  1. [Vue.js 3](https://vuejs.org/)
+    1. Vue Templates
+    1. [Vue Router](https://router.vuejs.org/)
+    1. [Vue Apollo for GraphQL](https://apollo.vuejs.org/)
+    1. [Vuex for State Management](https://next.vuex.vuejs.org/) or
+    1. [Pinia For State Management](https://pinia.esm.dev/introduction.html)
+  1. [Quasar](https://quasar.dev/)
+  1. [Quasar form Builder](https://github.com/baggachipz/q1.form-builder-demo)
+  1. [Vite](https://vitejs.dev/)
+  1. [Vite Plugin Markdown](https://github.com/antfu/vite-plugin-md)
+  1. [Vite Server Side Rendering](https://vitejs.dev/guide/ssr.html)
+  1. [TypeScript](https://www.typescriptlang.org/)
+  1. [@vueuse/head](https://github.com/vueuse/head)
+1. [Node.js](https://nodejs.org/)
+  1. [NVM (Node version manager)](https://github.com/mvm-sh/nvm)
+  1. [Vite](https://vitejs.dev/)
+  1. [Quasar CLi](https://quasar.dev/)
+1. Database
+  1. [MySQL](https://www.mysql.com/)
+  1. [Redis](https://redis.io/)
+1. API
+  1. [GraphQL API](https://graphql.org/)
+1. Package Managers
+  1. [NPM / PNPM](https://www.npmjs.com/) or
+  1. [Yarn](https://yarnpkg.com/)
+  1. [Composer](https://getcomposer.org/)
+1. [Apache](https://www.apache.org/)
+1. [CentOS 8](https://www.centos.org/)
+  1. [Samba](https://www.linuxtechi.com/install-configure-samba-centos-8/)
+1. Version Control
+  1. [Git](https://git-scm.com/)
 
 For each component there are installation instructions, usage instructions with some examples and where to get more help if needed
 
@@ -96,15 +96,15 @@ Secure Zone runs as an API and as a client from two different VHOSTS so lets set
 - [x] [3.1 Install Laravel via Composer](API/3.1-installWithComp.md)
 - [x] [3.2 GraphQL with Laravel and Lighthouse](API/3.2-graphql.md)
 - [x] [3.1 Install Lighthouse on API](API/3.3-lighthouse.md)
-- [?] [3.4 Passport Authentication](API/3.4-passportAuth.md)
-- [?] [3.5 Sanctum Authentication](API/3.5-sanctum.md)
-- [?] [3.6 Auth with Bearer Token](API/3.6-bearerAuth.md)
+- [ ] [3.4 Passport Authentication](API/3.4-passportAuth.md)
+- [ ] [3.5 Sanctum Authentication](API/3.5-sanctum.md)
+- [ ] [3.6 Auth with Bearer Token](API/3.6-bearerAuth.md)
 - [ ] [3.7 Laravel DB Setup](API/3.7-data.md)
 - [ ] [3.9 Google 2FA](API/3.8-2fa.md)
 - [ ] [3.9 GraphQL Tools](API/3.9-graphqlTools.md)
 - [ ] [3.10 Youtube Tutorial](API/3.10-youtube.md)
 - [ ] [3.11 Laravel Artisan GUI](API/3.11-artisanGui.md)
-- [x] [3.12 Laravel Sanctum / Vue Apollo Authentication](API/3.12-sanctumApollo.md)
+- [ ] [3.12 Laravel Sanctum / Vue Apollo Authentication](API/3.12-sanctumApollo.md)
 
 > Old secure zone laravel changes to get the old.secureZone to work
 
@@ -117,11 +117,11 @@ What I wanted to use is Vite, whatever I used with Vite does not matter and does
 
 So the first JS Lib to install is Vite, when you install Vite it asks you which other lib you will be using, in this case I actually decided to go with Vue.js because it's got a smaller learning curve for future developers and has a good community and thousands of plugins and good support, you can use lit-element anywhere in between as it uses native web-components so it will have no influence.
 
-- [-] [4.0 Vite Lit-Element](client/4.0-litElement.md)
+- [ ] [4.0 Vite Lit-Element](client/4.0-litElement.md)
 - [x] [4.1 Install Vue 3 CLI](client/4.1-vue.md)
 - [x] [4.2 Vite and Quasar](client/4.2-viteQuasar.md)
 - [x] [4.3 Sass Variables](client/4.3-sassVars.md)
-- [?] [4.4 Uno CSS](client/4.4-unoCss.md)
+- [x] [4.4 Uno CSS](client/4.4-unoCss.md)
 - [x] [4.5 Vue Apollo](client/4.5-vueApollo.md)
 - [x] [4.6 Vue Router](client/4.6-vueRouter.md)
 - [x] [4.7 Vue Auto Routes](client/4.7-vueAutoRoutes.md)
@@ -162,6 +162,10 @@ So the first JS Lib to install is Vite, when you install Vite it asks you which 
 - [x] [6.3 Quasar Prefetch Feature](quasar/6.3-quasarPrefetch.md)
 - [x] [6.4 Handling Assets](quasar/6.4-quasarAssets.md); 
 - [x] [6.5 API Proxying for Dev](quasar/6.5-apiProxy.md)
+- [x] [6.6 .env Processing](quasar/6.6-envProcess.md)
+- [x] [6.7 Deploying a SPA](quasar/6.7-deployingOrBuilding.md)
+- [x] [6.8 Open dev to Public](quasar/6.8-devForPublic.md)
+
 ## 7. Some hacks & Time savers
 
 - [ ] [7.1 Graphql Mysql Schema](hacks/7.1-graphqlMysqlSchema.md)
