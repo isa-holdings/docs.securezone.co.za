@@ -60,6 +60,8 @@ Here are a list of all the tech used with their official docs, added short docs 
 
 For each component there are installation instructions, usage instructions with some examples and where to get more help if needed
 
+The checkboxes next to each item is the ones chose to use in the end. I also mention some other packages that I did not implement yet or nessesarily will, but some packages I sort of stumbled upon as I was reaching this and they sounded like they had something secial to offer.
+
 ## 1. CentOS 8
 
 First we need to setup the CentOS 8 Server. There are quite a few steps. The items that is not checked is optional
@@ -136,8 +138,9 @@ So the first JS Lib to install is Vite, when you install Vite it asks you which 
 - [x] [4.16 Quasar dotenv](client/4.16-dotenv.md) 
 - [ ] [4.17 Quasar form builder](client/4.17-quasarFormBuilder.md)
 - [ ] [4.18 GraphQL Vanilla JS](client/4.18-NoFramworkGraphQL.md)
+- [ ] [4.19 `$apollo` outside vue component?](client/4.19-apolloOutsideVue.md)
 
-## 5. Testing & Tools 
+## 5. Some apps to learn all about GraphQL
 
 - [ ] [5.1 Local dev Server X11 Forwarding](tools/5.1-x11forwarding.md)
 - [ ] [5.2 Vue GraphQL Tools & Tutotials](tools/5.2-vueGraphQLResources.md)
@@ -155,7 +158,7 @@ So the first JS Lib to install is Vite, when you install Vite it asks you which 
 - [ ] [5.14 GrapQL PHP with out Larvel](https://github.com/webonyx/graphql-php) 
 - [ ] [5.15 Graphinatort Standalone PHP GraphQL Serevr](https://github.com/infinityloop-dev/graphpinator)
 
-## 6. Docs for some Tools used
+## 6. Documentation for some Tools used
 
 - [x] [6.1 Quasar Command List](quasar/6.1-commandList.md)
 - [x] [6.2 Quasar boot files](quasar/6.2-bootFiles.md)
@@ -165,6 +168,12 @@ So the first JS Lib to install is Vite, when you install Vite it asks you which 
 - [x] [6.6 .env Processing](quasar/6.6-envProcess.md)
 - [x] [6.7 Deploying a SPA](quasar/6.7-deployingOrBuilding.md)
 - [x] [6.8 Open dev to Public](quasar/6.8-devForPublic.md)
+- [x] *6.9 Quasar Components*
+- [ ] [6.9.1 QSkeleton](quasar/6.9.1-qSkeleton.md)
+- [x] [6.9.2 QMarkdown](quasar/6.9.2-qMarkdown.md)
+- [ ] [6.9.3 Testing](quasar/6.9.3-quasarTesting.md) 
+- [ ] [6.10 Sass Vars in JS](quasar/6.10-SassInJs.md)
+ 
 
 ## 7. Some hacks & Time savers
 
@@ -172,4 +181,24 @@ So the first JS Lib to install is Vite, when you install Vite it asks you which 
 - [x] [7.2 CORS (Cross-origin resource sharing)](hacks/7.2-cors.md)
 - [ ] [7.3 Quick and Easy Static site genertor (Docs)](hacks/7.3-staticSiteGenHugo.md)
 
+## 7.4 More tools for creating documentation
 
+- [7.4.1 VuePress](https://vuepress.vuejs.org/)
+- [7.4.2 MkDocs](https://www.libhunt.com/r/mkdocs)
+- [7.4.3 sphinx](https://www.sphinx-doc.org/en/master/)
+- [7.4.4 DocFX](libhunt.com/r/docfx)
+- [7.4.5 pdoc - for Python Projects](https://pdoc.dev/)
+- [7.4.6 Bookstack - wiki content built with PHP & Laravel](https://www.bookstackapp.com/)
+- [7.4.7 Pycco - Literate-style documentation](https://pycco-docs.github.io/pycco/)
+- [7.4.8 Python Cheatsheet](https://www.pythoncheatsheet.org/)\
+- [7.4.9 Wiki.js](https://js.wiki/)
+- [7.4.10 WKHTMLToPDF - Convert HTML to PDF using Webkit](https://wkhtmltopdf.org/)
+- [7.4.11 Snappy](https://github.com/barryvdh/laravel-snappy)
+- [7.4.12 Docusaurus](https://www.libhunt.com/r/docusaurus)
+- [7.4.13 docsify](https://docsify.js.org/#/)
+- [7.4.14 web.dev - source code for web.dev (by GoogleChrome)](https://www.libhunt.com/r/web.dev)
+- [buefy](https://www.libhunt.com/r/buefy)
+
+## 8 Deploy App
+
+- [8.1 Files to update](deploy/8.1-filesToUpdate.md)
