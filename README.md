@@ -95,10 +95,17 @@ Secure Zone runs as an API and as a client from two different VHOSTS so lets set
 
 ## 3. API with Laravel
 
+In this section you only have to install 3.1 to 3.4. I explored the rest of the options but in the end Passport won yhe race.
+
+Here is detailed instructions for passport auth:
+- [x] [3.0 Login with Passport](API/3.0-loginWithPassport.md)
+
+Auth system
+
 - [x] [3.1 Install Laravel via Composer](API/3.1-installWithComp.md)
 - [x] [3.2 GraphQL with Laravel and Lighthouse](API/3.2-graphql.md)
 - [x] [3.1 Install Lighthouse on API](API/3.3-lighthouse.md)
-- [ ] [3.4 Passport Authentication](API/3.4-passportAuth.md)
+- [x] [3.4 Passport Authentication](API/3.4-passportAuth.md)
 - [ ] [3.5 Sanctum Authentication](API/3.5-sanctum.md)
 - [ ] [3.6 Auth with Bearer Token](API/3.6-bearerAuth.md)
 - [ ] [3.7 Laravel DB Setup](API/3.7-data.md)
