@@ -1,6 +1,20 @@
+```js
+  ___ ____    _      ____                             _____                
+ |_ _/ ___|  / \    / ___|  ___  ___ _   _ _ __ ___  |__  /___  _ __   ___ 
+  | |\___ \ / _ \   \___ \ / _ \/ __| | | | '__/ _ \   / // _ \| '_ \ / _ \
+  | | ___) / ___ \ _ ___) |  __/ (__| |_| | | |  __/_ / /| (_) | | | |  __/
+ |___|____/_/   \_(_)____/ \___|\___|\__,_|_|  \___(_)____\___/|_| |_|\___|
+ 
+```
+Documentation
+The implementation of this API and the client side app can be found on git hub
+Quasar Fr
 # Secure Zone
 
+
+
 To serve these docs as a website:
+
 
 ```shell
 npm i docsify-cli -g
