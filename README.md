@@ -1,5 +1,14 @@
 # Secure Zone
 
+To serve these docs as a website:
+
+```shell
+npm i docsify-cli -g
+docsify init
+```
+[Docsify Docs](https://docsify.js.org/#/quickstart)
+
+
 This project uses the following technologies, Where the technologies are described further down this file, they are marked like this
 
 - [x] They important for the project to work
@@ -90,8 +99,9 @@ Secure Zone runs as an API and as a client from two different VHOSTS so lets set
 - [x] [2.1 Create the Directory Structure](vhosts/2.1-structure.md)
 - [x] [2.2 Grant Permissions](vhosts/2.2-permissions.md)
 - [ ] [2.3 Create Demo Pages for the Virtual Hosts](vhosts/2.3-demoPages.md)
-- [x] [2.4 Create New Virtual Host Files](vhosts/2.4-createConfFiles.md)
-- [x] [2.5 Set Up Local Hosts File](vhosts/2.5-hostsFile.md)
+- [x] [2.4 Set Up Local Hosts File](vhosts/2.4-hostsFile.md)
+- [x] [2.5 Create New Virtual Host Files](vhosts/2.5-createConfFiles.md)
+
 
 ## 3. API with Laravel
 
@@ -100,7 +110,7 @@ In this section you only have to install 3.1 to 3.4. I explored the rest of the 
 Here is detailed instructions for passport auth:
 - [x] [3.0 Login with Passport](API/3.0-loginWithPassport.md)
 
-Auth system
+> Auth system
 
 - [x] [3.1 Install Laravel via Composer](API/3.1-installWithComp.md)
 - [x] [3.2 GraphQL with Laravel and Lighthouse](API/3.2-graphql.md)
@@ -108,8 +118,8 @@ Auth system
 - [x] [3.4 Passport Authentication](API/3.4-passportAuth.md)
 - [ ] [3.5 Sanctum Authentication](API/3.5-sanctum.md)
 - [ ] [3.6 Auth with Bearer Token](API/3.6-bearerAuth.md)
-- [ ] [3.7 Laravel DB Setup](API/3.7-data.md)
-- [ ] [3.9 Google 2FA](API/3.8-2fa.md)
+- [ ] [3.7 Google 2FA](API/3.7-2fa.md)
+- [ ] [3.8 Laravel DB Setup](API/3.8-data.md)
 - [ ] [3.9 GraphQL Tools](API/3.9-graphqlTools.md)
 - [ ] [3.10 Youtube Tutorial](API/3.10-youtube.md)
 - [ ] [3.11 Laravel Artisan GUI](API/3.11-artisanGui.md)
@@ -117,7 +127,6 @@ Auth system
 
 > Old secure zone laravel changes to get the old.secureZone to work
 
-- [ ] [3.6 Adding a second DB to Laravel](API/3.6-data.md)
 - [ ] [3.7 2 FA Implementation](API/3.7-2fa.md)
 
 ## 4. SecureZone Client Website
@@ -131,17 +140,17 @@ So the first JS Lib to install is Vite, when you install Vite it asks you which 
 - [x] [4.2 Vite and Quasar](client/4.2-viteQuasar.md)
 - [x] [4.3 Sass Variables](client/4.3-sassVars.md)
 - [x] [4.4 Uno CSS](client/4.4-unoCss.md)
-- [x] [4.5 Vue Apollo](client/4.5-vueApollo.md)
+- [ ] [4.5 Vue Apollo](client/4.5-vueApollo.md)
 - [x] [4.6 Vue Router](client/4.6-vueRouter.md)
-- [x] [4.7 Vue Auto Routes](client/4.7-vueAutoRoutes.md)
+- [ ] [4.7 Vue Auto Routes](client/4.7-vueAutoRoutes.md)
 - [x] [4.8 Vue Guards - Restrict Access](client/4.8-vueGuards.md)
-- [?] [4.9 Vuex Data Store](client/4.9-vuexDataStore.md)
+- [ ] [4.9 Vuex Data Store](client/4.9-vuexDataStore.md)
 - [ ] [4.10 Vite Markdown Plugin](client/4.10-vitePluginMd.md)
-- [x] [4.11 VueUse Head](client/4.11-VueUseHead.md)
+- [ ] [4.11 VueUse Head](client/4.11-VueUseHead.md)
 - [x] [4.12 Quasar Cli](client/4.12-quasarCli.md)
 - [ ] [4.13 CSS Tips](client/4.13-cssTips.md)
-- [x] [4.14 Pinia](client/4.14-piniaStateAndStore.md)
-- [x] [4.15 Critters CSS](client/4.15-critters.md)
+- [ ] [4.14 Pinia](client/4.14-piniaStateAndStore.md)
+- [ ] [4.15 Critters CSS](client/4.15-critters.md)
 - [x] [4.16 Quasar dotenv](client/4.16-dotenv.md) 
 - [ ] [4.17 Quasar form builder](client/4.17-quasarFormBuilder.md)
 - [ ] [4.18 GraphQL Vanilla JS](client/4.18-NoFramworkGraphQL.md)
@@ -149,15 +158,15 @@ So the first JS Lib to install is Vite, when you install Vite it asks you which 
 
 ## 5. Some apps to learn all about GraphQL
 
-- [ ] [5.1 Local dev Server X11 Forwarding](tools/5.1-x11forwarding.md)
-- [ ] [5.2 Vue GraphQL Tools & Tutotials](tools/5.2-vueGraphQLResources.md)
+- [x] [5.1 Local dev Server X11 Forwarding](tools/5.1-x11forwarding.md)
+- [x] [5.2 Vue GraphQL Tools & Tutotials](tools/5.2-vueGraphQLResources.md)
 - [ ] [5.3 Scalable GraphQL server + Tooling and testing](tools/5.3-graphqlServerAndTools.md)
-- [ ] [5.4 GraphQL Electron Windows PLayground](tools/5.4-grapthQLElectron.md)
+- [ x [5.4 GraphQL Electron Windows PLayground](tools/5.4-grapthQLElectron.md)
 - [ ] [5.5 GraphQL Learning](tools/5.5-learingGraphQL.md)
 - [ ] [5.6 GraphQL Code Genrator](https://github.com/dotansimha/graphql-code-generator)
 - [ ] [5.7 Apollo Client Dev Tools](tools/5.7-apolloDevTools.md)
 - [ ] [5.8 Altair GraphQL Cross Platform Client](tools/5.8-altairGraphQL.md)
-- [ ] [5.9 Creating GraphQL Queries with Laravel](tools/5.9-creatingGQLueries.md)
+- [x] [5.9 Creating GraphQL Queries with Laravel](tools/5.9-creatingGQLueries.md)
 - [ ] [5.10 GraphQL Links and Options](tools/5.10-GQLFrameworkLinks.md)
 - [ ] [5.11 Simplest GraphQL IDE with only CDN inlcudes](tools/5.11-GraphQLIDECDN.md)
 - [ ] [5.12 GraphQL Live Query](tools/5.12-graphQLiveQuery.md)
