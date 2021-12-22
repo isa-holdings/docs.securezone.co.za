@@ -1,3 +1,4 @@
+
 # 8.1 File to Update
 
 Open the following files and make sure the settings are still correct
@@ -33,5 +34,3 @@ client: {
 ```conf
 GRAPHQL_URI=http://api.securezone.co.za.test/gql
 ```
-
-
