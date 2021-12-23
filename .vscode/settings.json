@@ -1,0 +1,43 @@
+{
+    "markdownlint.config": {
+        "MD028": false,
+        "MD025": {
+            "front_matter_title": ""
+        }
+    },
+    "cSpell.words": [
+        "behaviour",
+        "buefy",
+        "Cheatsheet",
+        "concidered",
+        "Delivr",
+        "docfx",
+        "Framwork",
+        "grapth",
+        "Grav",
+        "inlcudes",
+        "Laravel",
+        "learing",
+        "libhunt",
+        "Lueries",
+        "nessesarily",
+        "pinia",
+        "Pinia",
+        "PNPM",
+        "Prefetch",
+        "Proxying",
+        "QLIDECDN",
+        "secial",
+        "Transpilling",
+        "Unplugin",
+        "uuidv",
+        "vhosts",
+        "VHOSTS",
+        "vite",
+        "Vite",
+        "vueuse",
+        "vuex",
+        "Vuex",
+        "Windi"
+    ]
+}
