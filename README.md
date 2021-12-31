@@ -140,7 +140,7 @@ Here is detailed instructions for passport auth:
 - [ **?** ][&#128220;] [3.10 Youtube Tutorial](API/3.10-youtube.md)
 - [ **?** ][&#128220;] [3.11 Laravel Artisan GUI](API/3.11-artisanGui.md)
 - [ **?** ][&#128220;] [3.12 Laravel Sanctum / Vue Apollo Authentication](API/3.12-sanctumApollo.md)
-- [**&#10004;**][&#128220;] [3.13 User Permission Through Roles](API/3.13-permissionRoles.md) 
+- [**&#10004;**][&#128220;] [3.13 User Permission Through Roles](API/3.13-permissionRoles.md)
 
 > Old secure zone laravel changes to get the old.secureZone to work
 
@@ -236,7 +236,7 @@ I am now using Axios to perform the Graph Queries together with a package the co
 - [**&#10004;**][&#128220;] [8.5 POST Requests](axios/8.5-posts.md)
 - [**&#10004;**][&#128220;] [8.6 Minimal Example](axios/8.6-minExample.md)
 
-## 9. Misc
+## 9. Monitoring, Testing, Validation
 
 - [**&#10004;**][&#128220;] [9.1-Make API](misc/9.1-makeAPI.md)
 - [**&#10004;**][&#128220;] [9.2 Generate UUID](misc/9.2-uuid.md)
@@ -244,20 +244,20 @@ I am now using Axios to perform the Graph Queries together with a package the co
 - [**&#10004;**][&#128220;] [9.4 Validation with Typescript & Decorators](misc/9.4=typeValidation.md)
 - [**&#10004;**][&#128220;] [9.5 Strongly-typed destructuring TypeScript](misc/9.5-typeDestructuringTS.md)
 - [**&#10004;**][&#128249;] [9.6 Using TypeScript Class Components in NativeScript Vue](https://www.youtube.com/watch?v=u8lMkgb-8iA)
-- [**&#10004;**][] [9.7 Date-fns](misc/9.7-dateFns.js.md)
-
+- [**&#10004;**][&#128249;] [9.7 Date-fns](misc/9.7-dateFns.js.md)
+- [**&#10004;**][&#128249;] [9.8 Deno]('misc/9.8-deno.md')
 
 ## 10. OAuth
 
 I will attempt in impletement OAuth in the the application, this is by far the best authentication you can have, it is compatible with every platform and application type. I've implemented OAuth One and Two before  but I had some help from good docs. This time I will implement it as I understand it and Ill be creating the docs. So goog luck me... tx..
 
-https://github.com/peterpetrus/passport-token
+<https://github.com/peterpetrus/passport-token>
 
 **I'm going to use Laravel Socialite**
+
 #
+
 # [**&#10004;**][&#128220;][10.1 Install Socialite](oauth/installSocialite.md)
-
-
 
 ## 11. DB Seeds
 
@@ -266,6 +266,8 @@ https://github.com/peterpetrus/passport-token
 
 
 ## Deploy SPA, PWA, APK, Electron
+
 - [**&#10004;**] [Files to update](deploy/filesToUpdate.md)
 - [**&#10004;**] [Quasar Build](deploy/quasarBuild.md)
 - [**&#10004;**] [Quasar Commands](deploy/quasarCommands.md)
+- [**&#10004;**] [Deplay to Git](deploy/deployToGit);
