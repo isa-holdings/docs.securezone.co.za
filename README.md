@@ -37,7 +37,7 @@ Here are a list of all the tech used with their official docs, added short docs 
 
 - HTML
   - [HTML 5](https://www.w3schools.com/html/)
-  - [Web Components](webComponents.org)
+  - [Web Components](https://webComponents.org)
 - CSS
   - [Sass](https://sass-lang.com/)
   - [UNO CSS](https://github.com/antfu/unocss)A
